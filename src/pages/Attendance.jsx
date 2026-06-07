@@ -1,5 +1,5 @@
 import { useState } from "react"
-
+// Attendance management component
 import {
   NavLink,
   useNavigate,
