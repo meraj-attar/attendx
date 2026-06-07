@@ -314,6 +314,10 @@ navigate("/admin-dashboard")
                 <ArrowRight size={20} />
 
               </button>
+              <button className="w-full h-14 rounded-2xl border border-slate-700 flex items-center justify-center gap-3 hover:bg-white/5 transition">
+  <img src="/google.svg" alt="" className="w-5 h-5" />
+  Continue with Google
+</button>
 
             </form>
 
